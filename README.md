@@ -14,3 +14,6 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+## Мои навыки:
+<img src=" width="10%">
+![image](https://github.com/user-attachments/assets/237af38e-13f1-4435-9371-dd3dc0fe8d17)
