@@ -15,5 +15,7 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 ## Мои навыки:
-<img src=" width="10%">
-![image](https://github.com/user-attachments/assets/237af38e-13f1-4435-9371-dd3dc0fe8d17)
+<img src=![image](https://github.com/user-attachments/assets/7e58a63b-7bad-485f-91bf-28d2c6461c03)
+" width="10%">
+<img src="![image](https://github.com/user-attachments/assets/eeee6707-0ca2-4b04-bea2-7655e1d49f59)
+ width="10%">
